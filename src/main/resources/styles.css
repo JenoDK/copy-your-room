@@ -1,0 +1,7 @@
+.invalid {
+    -fx-background-color: #c65f5f;
+}
+
+.valid {
+    -fx-background-color: #93d865;
+}
